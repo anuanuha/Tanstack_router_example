@@ -1,0 +1,1 @@
+import{c as e,u as a,j as t}from"./index-CxqpAQe5.js";const i=e("/contact")({component:n});function n(){const o=a();return t.jsxs("div",{children:[t.jsx("h1",{children:"lazy contact page"}),t.jsx("button",{onClick:()=>o({to:"/about"}),children:"Navigate to about page"})]})}export{i as Route};
