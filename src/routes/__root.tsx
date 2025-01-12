@@ -13,7 +13,7 @@ function RootComponent() {
         <Link to="/contact">Contact</Link>
         <Link to="/about">About</Link>
       </div>
-      <Outlet />
+      <Outlet />npm run build
       <div>
         <h1>footer section</h1>
       </div>
